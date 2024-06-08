@@ -4,7 +4,7 @@
 
 [Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series, V. Ekambaram et al, IBM, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Tiny_Time_Mixers-Fast_Pre-trained_Models_for_Enhanced_Zero_Few-Shot_Forecasting_of_Multivariate_Time_Series_Ekambaram_IBM_2024.pdf)
 
-[A decoder-only foundation model for time-series forecasting, A. Das et al, 2023](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/A_decoder-only_foundation_model_for_time-series_forecasting_Das_Google_April_2024_Preprint.pdf)
+[A decoder-only foundation model for time-series forecasting, A. Das et al, Google, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/A_decoder-only_foundation_model_for_time-series_forecasting_Das_Google_April_2024_Preprint.pdf)
 
 [MLP-Mixer: An all-MLP Architecture for Vision, Ilya Tolstikhin et al, Google, 2021](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/MLP-Mixer-An_all-MLP_Architecture_for_Vision_Tolstikhin_Google_2021.pdf)
 
