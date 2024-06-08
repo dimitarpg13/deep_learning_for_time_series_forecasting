@@ -14,6 +14,8 @@
 
 [PatchTST for Time Series Forecasting: Original Results and My Single-Channel Experiments, Lalf Klein, 2023, Medium](https://medium.com/@lalf_klein/patchtst-for-time-series-forecasting-original-results-and-new-single-channel-experiments-f375699f7b91)
 
+[A Time Series is Worth 64 Words: Long-term Forecasting with Transformers, Y. Nie et al, IBM, Princeton U., 2023](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/A_Time_Series_is_Worth_64_Words-Long-term_Forecasting_with_Transformers_Nie_IBM_2023.pdf)
+
 [Tiny Time Mixers (TTM): A Powerful Zero-Shot Forecasting Model by IBM, Nikos Kafritsas, 2024, Towards Data Science](https://towardsdatascience.com/tiny-time-mixers-ttm-a-powerful-zero-shot-forecasting-model-by-ibm-576b0e0af583)
 
 [MOIRAI: Salesforce's Foundation Transformer For Time-Series Forecasting, Nikos Kafritas, 2023, AI Horizon Forecast](https://aihorizonforecast.substack.com/p/moirai-salesforces-foundation-transformer)
