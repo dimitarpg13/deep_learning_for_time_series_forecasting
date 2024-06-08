@@ -1,2 +1,3 @@
-# deep_learning_for_time_series_forecasting
-Various Deep Learning models suitable for time series forecasting
+# Deep Learning Models for Time Series Forecasting
+
+Work in Progress
