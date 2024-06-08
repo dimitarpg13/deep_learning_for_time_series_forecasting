@@ -6,6 +6,8 @@
 
 [A decoder-only foundation model for time-series forecasting, A. Das et al, 2023](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/A_decoder-only_foundation_model_for_time-series_forecasting_Das_Google_April_2024_Preprint.pdf)
 
+[MLP-Mixer: An all-MLP Architecture for Vision, Ilya Tolstikhin et al, Google, 2021](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/MLP-Mixer-An_all-MLP_Architecture_for_Vision_Tolstikhin_Google_2021.pdf)
+
 [iTransformer: The Latest Breakthrough in Time Series Forecasting, Marco Peixeiro, Towards Data Science, April 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/iTransformer-Inverted_Transformers_Are_Effective_for_Time_Series_Forecasting_Liu_2023.pdf)
 
 [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, Colin Raffel et al, Google, 2023](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Exploring_the_Limits_of_Transfer_Learning_with_a_Unified_Text-to-Text_Transformer_Raffel_2023.pdf)
