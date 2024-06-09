@@ -34,6 +34,8 @@
 
 [N-BEATS — The First Interpretable Deep Learning Model That Worked for Time Series Forecasting, Jonte Dancker, 2024, Towards Data Science](https://towardsdatascience.com/n-beats-the-first-interpretable-deep-learning-model-that-worked-for-time-series-forecasting-06920daadac2)
 
+[N-BEATS: Time-Series Forecasting with Neural Basis Expansion, Nikos Kafritsas, 20222, Towards Data Science](https://medium.com/towards-data-science/n-beats-time-series-forecasting-with-neural-basis-expansion-af09ea39f538)
+
 [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting, BN Oreshkin et al, Element AI, 2020](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/N-BEATS-Neural_basis_expansion_analysis_for_interpretable_time_series_forecasting_Oreshkin_ElementAI_2020.pdf)
 
 [TiDE: the ‘embarrassingly’ simple MLP that beats Transformers, Rafael Guedes, 2023, Towards Data Science](https://towardsdatascience.com/tide-the-embarrassingly-simple-mlp-that-beats-transformers-7db77d588079)
@@ -46,3 +48,4 @@
 
 [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting, B Lim et al, Oxford U., 2019](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Temporal_Fusion_Transformers_for_Interpretable_Multi-horizon_Time_Series_Forecasting_Lim_OxfordU_2020.pdf)
 
+[MOMENT: A Foundation Model for Time Series Forecasting, Classification, Anomaly Detection, Nikos Kafritsas, 2024, Towards Data Science](https://medium.com/towards-data-science/moment-a-foundation-model-for-time-series-forecasting-classification-anomaly-detection-1e35f5b6ca76)
