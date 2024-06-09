@@ -40,4 +40,5 @@
 
 [Darts: User-Friendly Modern Machine Learning for Time Series, Julien Herzen et al, 2022](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Darts-User-Friendly_Modern_Machine_Learning_for_Time_Series_Herzen_2022.pdf)
 
+[Long-term Forecasting with TiDE: Time-series Dense Encoder, Das et al, Google Research, 2023](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Long-term_Forecasting_with_TiDE-Time-series_Dense_Encoder_Das_GoogleResearch_2023.pdf)
 
