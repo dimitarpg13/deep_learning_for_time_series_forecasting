@@ -48,3 +48,4 @@
 
 [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting, B Lim et al, Oxford U., 2019](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Temporal_Fusion_Transformers_for_Interpretable_Multi-horizon_Time_Series_Forecasting_Lim_OxfordU_2020.pdf)
 
+[MOMENT: A Foundation Model for Time Series Forecasting, Classification, Anomaly Detection, Nikos Kafritsas, 2024, Towards Data Science](https://medium.com/towards-data-science/moment-a-foundation-model-for-time-series-forecasting-classification-anomaly-detection-1e35f5b6ca76)
