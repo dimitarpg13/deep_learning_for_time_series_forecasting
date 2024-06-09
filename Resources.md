@@ -42,3 +42,5 @@
 
 [Long-term Forecasting with TiDE: Time-series Dense Encoder, Das et al, Google Research, 2023](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Long-term_Forecasting_with_TiDE-Time-series_Dense_Encoder_Das_GoogleResearch_2023.pdf)
 
+[GluonTS: Probabilistic Time Series Models in Python, A. Alexandrov et al, 2019](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/GluonTS-Probabilistic_Time_Series_Models_in_Python_Alexandrov_AWS_2019.pdf)
+
