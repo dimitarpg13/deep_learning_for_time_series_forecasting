@@ -36,3 +36,5 @@
 
 [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting, BN Oreshkin et al, Element AI, 2020](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/N-BEATS-Neural_basis_expansion_analysis_for_interpretable_time_series_forecasting_Oreshkin_ElementAI_2020.pdf)
 
+[TiDE: the ‘embarrassingly’ simple MLP that beats Transformers, Rafael Guedes, 2023, Towards Data Science](https://towardsdatascience.com/tide-the-embarrassingly-simple-mlp-that-beats-transformers-7db77d588079)
+
