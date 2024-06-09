@@ -8,6 +8,10 @@
 
 [MLP-Mixer: An all-MLP Architecture for Vision, Ilya Tolstikhin et al, Google, 2021](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/MLP-Mixer-An_all-MLP_Architecture_for_Vision_Tolstikhin_Google_2021.pdf)
 
+[TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting, V. Ekambaram et al, IBM, 2023](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/TSMixer-Lightweight_MLP-Mixer_Model_for_Multivariate_Time_Series_Forecasting_Ekambaram_IBM_2023.pdf)
+
+[TSMixer: An All-MLP Architecture for Time Series Forecasting, SA Chen et al, Google, 2023](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/TSMixer-An_All-MLP_Architecture_for_Time_Series_Forecasting_Chen_Google_2023.pdf)
+
 [iTransformer: The Latest Breakthrough in Time Series Forecasting, Marco Peixeiro, Towards Data Science, April 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/iTransformer-Inverted_Transformers_Are_Effective_for_Time_Series_Forecasting_Liu_2023.pdf)
 
 [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, Colin Raffel et al, Google, 2023](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Exploring_the_Limits_of_Transfer_Learning_with_a_Unified_Text-to-Text_Transformer_Raffel_2023.pdf)
@@ -32,3 +36,6 @@
 
 [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting, BN Oreshkin et al, Element AI, 2020](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/N-BEATS-Neural_basis_expansion_analysis_for_interpretable_time_series_forecasting_Oreshkin_ElementAI_2020.pdf)
 
+[TiDE: the ‘embarrassingly’ simple MLP that beats Transformers, Rafael Guedes, 2023, Towards Data Science](https://towardsdatascience.com/tide-the-embarrassingly-simple-mlp-that-beats-transformers-7db77d588079)
+
+[]()
