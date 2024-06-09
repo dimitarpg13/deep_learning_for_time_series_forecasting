@@ -44,3 +44,5 @@
 
 [GluonTS: Probabilistic Time Series Models in Python, A. Alexandrov et al, 2019](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/GluonTS-Probabilistic_Time_Series_Models_in_Python_Alexandrov_AWS_2019.pdf)
 
+[Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting, B Lim et al, Oxford U., 2019](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Temporal_Fusion_Transformers_for_Interpretable_Multi-horizon_Time_Series_Forecasting_Lim_OxfordU_2020.pdf)
+
