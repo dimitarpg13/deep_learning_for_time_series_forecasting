@@ -36,6 +36,10 @@
 
 [Chronos: Learning the Language of Time Series, AF Ansari et al, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Chronos-Learning_the_Language_of_Time_Series_Fatir_2024.pdf)
 
+[How to Effectively Forecast Time Series with Amazon's New Time Series Forecasting Model, Eivind Kjosbakken, April 9, 2024, TDS](https://towardsdatascience.com/how-to-effectively-forecast-time-series-with-amazons-new-time-series-forecasting-model-9e04d4ccf67e)
+
+in [pdf format](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/How_to_Effectively_Forecast_Time_Series_with_Amazon_New_Time_Series_Forecasting_Model_by_Eivind_Kjosbakken_TowardsDataScience.pdf)
+
 [Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting, K. Rasul et al, 2023](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Lag-Llama-Towards_Foundation_Models_for_Probabilistic_Time_Series_Forecasting_Rasul_2023.pdf)
 
 [N-BEATS — The First Interpretable Deep Learning Model That Worked for Time Series Forecasting, Jonte Dancker, 2024, Towards Data Science](https://towardsdatascience.com/n-beats-the-first-interpretable-deep-learning-model-that-worked-for-time-series-forecasting-06920daadac2)
