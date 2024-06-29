@@ -1,5 +1,9 @@
 # Resources on Deep Learning models for Time Series forecasting
 
+## books
+
+[Forecasting - Principles and Practice, Rob J. Hyndman, 2014](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/books/Forecasting_Principles_and_Practice_Hyndman_2014.pdf)
+
 ## articles
 
 [Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series, V. Ekambaram et al, IBM, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Tiny_Time_Mixers-Fast_Pre-trained_Models_for_Enhanced_Zero_Few-Shot_Forecasting_of_Multivariate_Time_Series_Ekambaram_IBM_2024.pdf)
