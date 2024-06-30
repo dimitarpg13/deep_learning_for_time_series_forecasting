@@ -64,3 +64,5 @@ in [pdf format](https://github.com/dimitarpg13/deep_learning_for_time_series_for
 
 PyPOTS url: https://pypots.com/
 
+[Are Language Models Actually Useful for Time Series Forecasting? M. Tan et al, U of Virginia, U of Washington, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Are_Language_Models_Actually_Useful_for_Time_Series_Forecasting_Tan_2024.pdf)
+
