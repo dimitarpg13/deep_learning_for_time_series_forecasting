@@ -66,3 +66,16 @@ PyPOTS url: https://pypots.com/
 
 [Are Language Models Actually Useful for Time Series Forecasting? M. Tan et al, U of Virginia, U of Washington, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Are_Language_Models_Actually_Useful_for_Time_Series_Forecasting_Tan_2024.pdf)
 
+### forecasting methods and techniques
+
+[A State Space Framework for Automatic FOrecasting using Exponential Smoothing Methods, Rob J. Hyndman et al, 2003](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/A_state_space_framework_for_automatic_forecasting_using_exponential_smoothing_methods_Hyndman_2003.pdf)
+
+[Another Look at the Measrues of Forecast Accuracy, Rob J. Hyndman, Anne B. Koehler, 2005](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Another_Look_at_Measures_of_Forecast_Accuracy_Hyndman_2005.pdf)
+
+## medium
+
+[Time Series Forecasting in the Age of GenAI: Make Gradient Boosting Behaves like LLMs, Marco Cerliani, 2024, Towards Data Science](https://towardsdatascience.com/time-series-forecasting-in-the-age-of-genai-make-gradient-boosting-behaves-like-llms-674d9e22e1ce)
+
+## Makridakis Competitions
+
+[Makridakis Competitions, Wiki](https://en.wikipedia.org/wiki/Makridakis_Competitions)
