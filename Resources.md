@@ -76,6 +76,8 @@ PyPOTS url: https://pypots.com/
 
 [Time Series Forecasting in the Age of GenAI: Make Gradient Boosting Behaves like LLMs, Marco Cerliani, 2024, Towards Data Science](https://towardsdatascience.com/time-series-forecasting-in-the-age-of-genai-make-gradient-boosting-behaves-like-llms-674d9e22e1ce)
 
+[Time Series Are Not That Different for LLMs, Henry Lai, 2024, Towards Data Science](https://towardsdatascience.com/time-series-are-not-that-different-for-llms-56435dc7d2b1)
+
 ## Makridakis Competitions
 
 [Makridakis Competitions, Wiki](https://en.wikipedia.org/wiki/Makridakis_Competitions)
