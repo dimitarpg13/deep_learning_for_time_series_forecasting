@@ -10,6 +10,10 @@
 
 related article: [On the applicability of Deep Learning Techniques to Time Series Forecasting, D. Sauerwein, AWS, 7/21/2024, Linkedin post](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/On_the_applicability_of_Deep_Learning_Techniques_to_Time_Series_Forecasting_Sauerwein_2024.pdf)
 
+[Will Transformers Revolutionize Time-Series Forecasting? Advanced Insights, Part 1, Nikos Kafritsas, June 25, 2024, Substack article](https://aihorizonforecast.substack.com/p/will-transformers-revolutionize-time)
+
+as pdf: [here](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Will_Transformers_Revolutionize_Time-Series_Forecasting_Advanced_Insights_Part_1_Nikos_Kafritsas_2024.pdf)
+
 [Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series, V. Ekambaram et al, IBM, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Tiny_Time_Mixers-Fast_Pre-trained_Models_for_Enhanced_Zero_Few-Shot_Forecasting_of_Multivariate_Time_Series_Ekambaram_IBM_2024.pdf)
 
 [A decoder-only foundation model for time-series forecasting, A. Das et al, Google, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/A_decoder-only_foundation_model_for_time-series_forecasting_Das_Google_April_2024_Preprint.pdf)
