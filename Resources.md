@@ -8,6 +8,8 @@
 
 [A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model, J. Ye et al, Honk Kong U., 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/A_Survey_of_Time_Serie_Foundation_Models_Generalizing_Time_Series_Representation_with_LLM_Ye_2024.pdf)
 
+related article: [On the applicability of Deep Learning Techniques to Time Series Forecasting, D. Sauerwein, AWS, 7/21/2024, Linkedin post](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/On_the_applicability_of_Deep_Learning_Techniques_to_Time_Series_Forecasting_Sauerwein_2024.pdf)
+
 [Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series, V. Ekambaram et al, IBM, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Tiny_Time_Mixers-Fast_Pre-trained_Models_for_Enhanced_Zero_Few-Shot_Forecasting_of_Multivariate_Time_Series_Ekambaram_IBM_2024.pdf)
 
 [A decoder-only foundation model for time-series forecasting, A. Das et al, Google, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/A_decoder-only_foundation_model_for_time-series_forecasting_Das_Google_April_2024_Preprint.pdf)
