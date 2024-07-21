@@ -14,6 +14,8 @@ related article: [On the applicability of Deep Learning Techniques to Time Serie
 
 as pdf: [here](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Will_Transformers_Revolutionize_Time-Series_Forecasting_Advanced_Insights_Part_1_Nikos_Kafritsas_2024.pdf)
 
+[xLSTMTime : Long-term Time Series Forecasting With xLSTM, M. Alharthi et al, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/xLSTMTime_Long_term_Time_Series_Forecasting_With_xLSTM_Alharti_2024.pdf)
+
 [Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series, V. Ekambaram et al, IBM, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Tiny_Time_Mixers-Fast_Pre-trained_Models_for_Enhanced_Zero_Few-Shot_Forecasting_of_Multivariate_Time_Series_Ekambaram_IBM_2024.pdf)
 
 [A decoder-only foundation model for time-series forecasting, A. Das et al, Google, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/A_decoder-only_foundation_model_for_time-series_forecasting_Das_Google_April_2024_Preprint.pdf)
@@ -79,6 +81,10 @@ PyPOTS url: https://pypots.com/
 [A State Space Framework for Automatic FOrecasting using Exponential Smoothing Methods, Rob J. Hyndman et al, 2003](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/A_state_space_framework_for_automatic_forecasting_using_exponential_smoothing_methods_Hyndman_2003.pdf)
 
 [Another Look at the Measrues of Forecast Accuracy, Rob J. Hyndman, Anne B. Koehler, 2005](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Another_Look_at_Measures_of_Forecast_Accuracy_Hyndman_2005.pdf)
+
+## practicums
+
+[Develop LSTM Models for Time Series Forecasting, R. Gupta, 2021, Kaggle artile](https://www.kaggle.com/code/ritesh7355/develop-lstm-models-for-time-series-forecasting)
 
 ## medium
 
