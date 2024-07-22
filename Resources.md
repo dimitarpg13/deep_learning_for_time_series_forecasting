@@ -42,6 +42,8 @@ as pdf: [here](https://github.com/dimitarpg13/deep_learning_for_time_series_fore
 
 [MOIRAI: Salesforce's Foundation Transformer For Time-Series Forecasting, Nikos Kafritas, 2023, AI Horizon Forecast](https://aihorizonforecast.substack.com/p/moirai-salesforces-foundation-transformer)
 
+[Fuzzy inference-based LSTM for long-term time series prediction, W. Wang et al, Nature, 2023](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Fuzzy_inference_based_LSTM_for_long_term_time_series_prediction_Wang_Nature_2023.pdf)
+
 [Unified Training of Universal Time Series Forecasting Transformers, Woo, G et al, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Unified_Training_of_Universal_Time_Series_Forecasting_Transformers_Woo_2024.pdf)
 
 [Chronos: Learning the Language of Time Series, AF Ansari et al, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Chronos-Learning_the_Language_of_Time_Series_Fatir_2024.pdf)
@@ -84,7 +86,11 @@ PyPOTS url: https://pypots.com/
 
 ## practicums
 
+[Exploring the LSTM Neural Network Model for Time Series, Michael Keith, 2022, Medium article](https://towardsdatascience.com/exploring-the-lstm-neural-network-model-for-time-series-8b7685aa8cf)
+
 [Develop LSTM Models for Time Series Forecasting, R. Gupta, 2021, Kaggle artile](https://www.kaggle.com/code/ritesh7355/develop-lstm-models-for-time-series-forecasting)
+
+[How to Develop LSTM Models for Time Series Forecasting, Jason Brownlee, 2020, ML Mastery article](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
 
 ## medium
 
