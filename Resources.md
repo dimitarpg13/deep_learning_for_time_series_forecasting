@@ -98,6 +98,8 @@ PyPOTS url: https://pypots.com/
 
 [Time Series Are Not That Different for LLMs, Henry Lai, 2024, Towards Data Science](https://towardsdatascience.com/time-series-are-not-that-different-for-llms-56435dc7d2b1)
 
+related paper: [Understanding Different Design Choices in Training Large Time Series Models, Yu-Neng Chuang et al, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Understanding_Different_Design_Choices_in_Training_Large_Time_Series_Models_Chuang_2024.pdf)
+
 ## Makridakis Competitions
 
 [Makridakis Competitions, Wiki](https://en.wikipedia.org/wiki/Makridakis_Competitions)
