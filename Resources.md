@@ -42,6 +42,8 @@ as pdf: [here](https://github.com/dimitarpg13/deep_learning_for_time_series_fore
 
 [MOIRAI: Salesforce's Foundation Transformer For Time-Series Forecasting, Nikos Kafritas, 2023, AI Horizon Forecast](https://aihorizonforecast.substack.com/p/moirai-salesforces-foundation-transformer)
 
+[Hands-On with Moirai: A Foundation Forecasting Model by Salesforce, Marco Peixeiro, Aug, 2024, Medium](https://towardsdatascience.com/hands-on-with-moirai-a-foundation-forecasting-model-by-salesforce-c13208139ae1)
+
 [Fuzzy inference-based LSTM for long-term time series prediction, W. Wang et al, Nature, 2023](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Fuzzy_inference_based_LSTM_for_long_term_time_series_prediction_Wang_Nature_2023.pdf)
 
 [Unified Training of Universal Time Series Forecasting Transformers, Woo, G et al, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Unified_Training_of_Universal_Time_Series_Forecasting_Transformers_Woo_2024.pdf)
