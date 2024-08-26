@@ -84,9 +84,25 @@ PyPOTS url: https://pypots.com/
 
 ### forecasting methods and techniques
 
-[A State Space Framework for Automatic FOrecasting using Exponential Smoothing Methods, Rob J. Hyndman et al, 2003](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/A_state_space_framework_for_automatic_forecasting_using_exponential_smoothing_methods_Hyndman_2003.pdf)
-
 [Another Look at the Measrues of Forecast Accuracy, Rob J. Hyndman, Anne B. Koehler, 2005](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Another_Look_at_Measures_of_Forecast_Accuracy_Hyndman_2005.pdf)
+
+### neural networks and deep learning models
+
+[Time series forecasting with neural networks: a comparative study using the airline data, J. Faraway C. Chatfield, 1998](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Time_series_forecasting_with_neural_networks-a_comparative_study_using_the_airline_data_Faraway_1998.pdf)
+
+### Kernel methods for time series forecasting
+
+[Kernel Methods for Time Series Forecasting, F. Tang, U of Birmingham, 2015](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/KernelMethods_for_TimeSeriesData_Tang_2015_Thesis.pdf)
+
+[Multi-VIew Kernel PCA for Time Series Forecasting, Arun Pandey, 2023](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Multi-View_Kernel_PCA_for_Time_Series_Forecasting_Pandey_2023.pdf)
+
+### Dynamical Systems and State Space approach for time series forecasting
+
+[A State Space Framework for Automatic Forecasting using Exponential Smoothing Methods, Rob J. Hyndman et al, 2003](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/A_state_space_framework_for_automatic_forecasting_using_exponential_smoothing_methods_Hyndman_2003.pdf)
+
+[Learning Stable Linear Dynamical Systems, B. Boots, CMU, 2009](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Learning_Stable_Linear_Dynamical_Systems_Boots_2009.pdf)
+
+[Structural Time Series Models and the Kalman Filter: a concise review, J. Jalles, U of Camridge, 2009](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Structural_Time_Series_Models_and_the_Kalman_Filter-a_concise_review_Jales_2009.pdf)
 
 ## practicums
 
