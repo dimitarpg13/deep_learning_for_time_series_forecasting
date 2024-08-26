@@ -4,6 +4,8 @@
 
 [Forecasting - Principles and Practice, Rob J. Hyndman, 2014](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/books/Forecasting_Principles_and_Practice_Hyndman_2014.pdf)
 
+[The Analysis of Time Series: Introduction, Chris Chatfield, 5th Edition, 1995](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/books/Chatfield_The_Analysis_of_Time_Series_An_Introduction_5ed.pdf)
+
 ## articles
 
 [A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model, J. Ye et al, Honk Kong U., 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/A_Survey_of_Time_Serie_Foundation_Models_Generalizing_Time_Series_Representation_with_LLM_Ye_2024.pdf)
