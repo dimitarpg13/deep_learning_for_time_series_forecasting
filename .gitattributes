@@ -20,3 +20,7 @@ literature/articles/A_Survey_of_Time_Serie_Foundation_Models_Generalizing_Time_S
 literature/articles/Will_Transformers_Revolutionize_Time-Series_Forecasting_Advanced_Insights_Part_1_Nikos_Kafritsas_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/Fuzzy_inference_based_LSTM_for_long_term_time_series_prediction_Wang_Nature_2023.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/Understanding_Different_Design_Choices_in_Training_Large_Time_Series_Models_Chuang_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Chatfield_The_Analysis_of_Time_Series_An_Introduction_5ed.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/KernelMethods_for_TimeSeriesData_Tang_2015_Thesis.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/Learning_Stable_Linear_Dynamical_Systems_Boots_2009.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/Multi-View_Kernel_PCA_for_Time_Series_Forecasting_Pandey_2023.pdf filter=lfs diff=lfs merge=lfs -text
