@@ -102,6 +102,8 @@ PyPOTS url: https://pypots.com/
 
 related paper: [Understanding Different Design Choices in Training Large Time Series Models, Yu-Neng Chuang et al, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Understanding_Different_Design_Choices_in_Training_Large_Time_Series_Models_Chuang_2024.pdf)
 
+[Hands-on Time Series Anomaly Detection using Autoencoders with Python, Piero Paialunga, 2024](https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122)
+
 ## Makridakis Competitions
 
 [Makridakis Competitions, Wiki](https://en.wikipedia.org/wiki/Makridakis_Competitions)
