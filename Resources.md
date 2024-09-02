@@ -82,6 +82,8 @@ PyPOTS url: https://pypots.com/
 
 [Are Language Models Actually Useful for Time Series Forecasting? M. Tan et al, U of Virginia, U of Washington, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Are_Language_Models_Actually_Useful_for_Time_Series_Forecasting_Tan_2024.pdf)
 
+[VisionTS: Visual Masked Autoencoders are Free Lunch Zero-Shot Time Series Forecasters, M. Chen et al, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/VisionTS-Visual_Masked_Autoencoders_are_Free-Lunch_Zero-Shot_Time_Series_Forecasters_Chen_2024.pdf)
+
 ### forecasting methods and techniques
 
 [Another Look at the Measrues of Forecast Accuracy, Rob J. Hyndman, Anne B. Koehler, 2005](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Another_Look_at_Measures_of_Forecast_Accuracy_Hyndman_2005.pdf)
