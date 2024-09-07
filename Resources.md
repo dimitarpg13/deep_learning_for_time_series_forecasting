@@ -8,6 +8,8 @@
 
 ## articles
 
+[Toto: Time Series Optimized Transformer for Observability, Ben Cohen et al, Technical Report, DataDog, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Toto-Time_Series_Optimized_Transformer_for_Observability_Cohen_DataDog_2024.pdf)
+
 [A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model, J. Ye et al, Honk Kong U., 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/A_Survey_of_Time_Serie_Foundation_Models_Generalizing_Time_Series_Representation_with_LLM_Ye_2024.pdf)
 
 related article: [On the applicability of Deep Learning Techniques to Time Series Forecasting, D. Sauerwein, AWS, 7/21/2024, Linkedin post](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/On_the_applicability_of_Deep_Learning_Techniques_to_Time_Series_Forecasting_Sauerwein_2024.pdf)
