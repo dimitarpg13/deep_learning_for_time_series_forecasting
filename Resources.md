@@ -36,6 +36,20 @@ as pdf: [here](https://github.com/dimitarpg13/deep_learning_for_time_series_fore
 
 [iTransformer: The Latest Breakthrough in Time Series Forecasting, Marco Peixeiro, Towards Data Science, April 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/iTransformer-Inverted_Transformers_Are_Effective_for_Time_Series_Forecasting_Liu_2023.pdf)
 
+[iTransformer: Inverted Transformers are Effective for Time-Series Forecasting, Y. Liu et al, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/iTransformer-Inverted_Transformers_Are_Effective_for_Time_Series_Forecasting_Liu_ICLR_2024.pdf)
+
+[SAMFormer: Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimzation and Channel-Wise Attention, R. Ilbert et al, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/SAMformer-Unlocking_the_Potential_of_Transformers_in_Time_Series_Forecasting_with_Sharpness-Aware_Minimization_and_Channel-Wise_Attention_Ilbert_2024.pdf)
+
+[Generative Adversarial Networks in Time Series: A Systematic Literature Overview, E. Brophy et al, 2023](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Generative_adversarial_networks_in_time_series-A_systematic_literature_review_Brophy_2023.pdf)
+
+[A Time Series is Worth 64 Words: Long Term Forecasting with Transformers, Y. Nie et al, Princeton U., 2023](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/A_Time_Series_is_Worth_64_Words-Long-term_Forecasting_with_Transformers_Nie_2023.pdf)
+
+[A Decoder-Only Foundation Model for Time-Series Forecasting, A. Das et al, Google Research, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/A_decoder-only_foundation_model_for_time-series_forecasting_Das_Google_April_2024_Preprint.pdf)
+
+[Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time-Series Forecasting, Y. Zhang et al, ICLR 2023](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Crossformer-Transformer_Utilizing_Cross-Dimension_Dependency_for_Multivariate_Time_Series_Forecasting_Zhang_ICLR_2023.pdf)
+
+[Autoformer: Decomposition Transformers with Auto-Correlation for Long Term Time Series Forecasting, H. Wu et al, 2022](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Autoformer-Decomposition_Transformers_with_Auto-Correlation_for_Long-Term_Series_Forecasting_Wu_2021.pdf)
+
 [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, Colin Raffel et al, Google, 2023](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Exploring_the_Limits_of_Transfer_Learning_with_a_Unified_Text-to-Text_Transformer_Raffel_2023.pdf)
 
 [TimesFM: Google's Foundation Model For Time-Series Forecasting, Nikos Kafritas, 2023, AI Horizon Forecast](https://aihorizonforecast.substack.com/p/timesfm-googles-foundation-model)
@@ -89,6 +103,10 @@ PyPOTS url: https://pypots.com/
 [Are Language Models Actually Useful for Time Series Forecasting? M. Tan et al, U of Virginia, U of Washington, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Are_Language_Models_Actually_Useful_for_Time_Series_Forecasting_Tan_2024.pdf)
 
 [VisionTS: Visual Masked Autoencoders are Free Lunch Zero-Shot Time Series Forecasters, M. Chen et al, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/VisionTS-Visual_Masked_Autoencoders_are_Free-Lunch_Zero-Shot_Time_Series_Forecasters_Chen_2024.pdf)
+
+[DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks, D. Salinas et al, Amazon research, 2019](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/DeepAR-Probabilistic_Forecasting_with_Autoregressive_Recurrent_Networks_Salinas_AmazonResearch_2019.pdf)
+
+[Forecasting with Limited Data: Combining ARIMA and Diffusion Models, C. Christodoulous et al, 2010](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Forecasting_with_limited_data_Combining_ARIMA_and_diffusion_models_Christodoulos_2010.pdf)
 
 ### forecasting methods and techniques
 
