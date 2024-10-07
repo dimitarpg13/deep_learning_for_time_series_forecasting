@@ -128,6 +128,10 @@ related paper: [Understanding Different Design Choices in Training Large Time Se
 
 [Hands-on Time Series Anomaly Detection using Autoencoders with Python, Piero Paialunga, 2024](https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122)
 
+[Convenient Time Series Forecasting with sktime, Dr. Robert Kübler, 2024](https://towardsdatascience.com/convenient-time-series-forecasting-with-sktime-bb82375e846c)
+
+[Dynamic Time Series Model Updating: Enhancing Forecast Accuracy with Incremental Adjustments Without Rebuilding Models, S. Li, 2024](https://pub.towardsai.net/dynamic-time-series-model-updating-8e45e042e21b)
+
 ## Makridakis Competitions
 
 [Makridakis Competitions, Wiki](https://en.wikipedia.org/wiki/Makridakis_Competitions)
