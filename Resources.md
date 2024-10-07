@@ -132,6 +132,18 @@ PyPOTS url: https://pypots.com/
 
 [Structural Time Series Models and the Kalman Filter: a concise review, J. Jalles, U of Camridge, 2009](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Structural_Time_Series_Models_and_the_Kalman_Filter-a_concise_review_Jales_2009.pdf)
 
+#### Forecasting with Dynamic Linear Models (DLM)
+
+[Pyro: Forecasting with Dynamic Linear Model (DLM)](https://pyro.ai/examples/forecasting_dlm.html)
+
+[Electricity Demand Forecast: Dynamic Time-Series Model, Juan Orduz, online blog, 2024](https://juanitorduz.github.io/electricity_forecast/)
+
+[Electricity Demand Forecast: Dynamic Time-Series Model with Prior Calibration, Juan Orduz, online blog, 2024](https://juanitorduz.github.io/electricity_forecast_with_priors/)
+
+[PyMC-Marketing: MMM Example Notebook](https://www.pymc-marketing.io/en/stable/notebooks/mmm/mmm_example.html)
+
+[PyMC-Marketing: Time-Slice-Cross-Validation and Parameter Stability](https://www.pymc-marketing.io/en/stable/notebooks/mmm/mmm_time_slice_cross_validation.html)
+
 ## practicums
 
 [Exploring the LSTM Neural Network Model for Time Series, Michael Keith, 2022, Medium article](https://towardsdatascience.com/exploring-the-lstm-neural-network-model-for-time-series-8b7685aa8cf)
