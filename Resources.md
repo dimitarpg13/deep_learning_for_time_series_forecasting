@@ -84,6 +84,8 @@ in [pdf format](https://github.com/dimitarpg13/deep_learning_for_time_series_for
 
 [N-HiTS: Neural Hierarchical Interpolation for Time Series Forecasting, Cristian Challu et al, 2022](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/N-HiTS-Neural_Hierarchical_Interpolation_for_Time_Series_Forecasting_Challu_2022.pdf)
 
+[Forecasting with NHiTs: Uniting Deep Learning + Signal Processing for Superior Accuracy, Nikos Kafritsas, AI Horizon Forecast, 2024](https://aihorizonforecast.substack.com/p/forecasting-with-nhits-uniting-deep)
+
 [TiDE: the ‘embarrassingly’ simple MLP that beats Transformers, Rafael Guedes, 2023, Towards Data Science](https://towardsdatascience.com/tide-the-embarrassingly-simple-mlp-that-beats-transformers-7db77d588079)
 
 [Darts: User-Friendly Modern Machine Learning for Time Series, Julien Herzen et al, 2022](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Darts-User-Friendly_Modern_Machine_Learning_for_Time_Series_Herzen_2022.pdf)
