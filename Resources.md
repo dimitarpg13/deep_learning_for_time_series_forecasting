@@ -4,6 +4,8 @@
 
 [Forecasting - Principles and Practice, Rob J. Hyndman, 2014](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/books/Forecasting_Principles_and_Practice_Hyndman_2014.pdf)
 
+[Time Series Analysis: Forecasting and Control, George E.P. Box et al, Fifth Edition, 2016](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/books/Time_Series_Analysis_Forecasting_and_Control_Box_2016.pdf)
+
 [The Analysis of Time Series: Introduction, Chris Chatfield, 5th Edition, 1995](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/books/Chatfield_The_Analysis_of_Time_Series_An_Introduction_5ed.pdf)
 
 ## articles
