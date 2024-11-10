@@ -144,6 +144,16 @@ PyPOTS url: https://pypots.com/
 
 [PyMC-Marketing: Time-Slice-Cross-Validation and Parameter Stability](https://www.pymc-marketing.io/en/stable/notebooks/mmm/mmm_time_slice_cross_validation.html)
 
+### Genetic Algorithms 
+
+[Time Series Forecasting with Genetic Algorithms: A Novel Approach, S. Li, Medium, 2024](https://pub.towardsai.net/time-series-forecasting-with-genetic-algorithms-a-novel-approach-a14c27b94d18)
+
+github repo: https://github.com/datalev001/GA_TM/
+
+[Time series forecasting method based on genetic algorithm for predicting the conditions of technical systems, VM Kureychick et al, 2019](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/genetic_algortithms/Kureychick_2019_J_Phys__Conf_Ser.pdf)
+
+[Time Series Forecasting using Genetic Algorithm, Yamur K. Al-Douri et al, 2018](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/genetic_algortithms/Time_Series_Forecasting_using_Genetic_Algorithm_Al-Dhouri_2018.pdf)
+
 ## practicums
 
 [Exploring the LSTM Neural Network Model for Time Series, Michael Keith, 2022, Medium article](https://towardsdatascience.com/exploring-the-lstm-neural-network-model-for-time-series-8b7685aa8cf)
@@ -165,6 +175,8 @@ related paper: [Understanding Different Design Choices in Training Large Time Se
 [Convenient Time Series Forecasting with sktime, Dr. Robert Kübler, 2024](https://towardsdatascience.com/convenient-time-series-forecasting-with-sktime-bb82375e846c)
 
 [Dynamic Time Series Model Updating: Enhancing Forecast Accuracy with Incremental Adjustments Without Rebuilding Models, S. Li, 2024](https://pub.towardsai.net/dynamic-time-series-model-updating-8e45e042e21b)
+
+[Time Series Forecasting with Genetic Algorithms: A Novel Approach, S. Li, Medium, 2024](https://pub.towardsai.net/time-series-forecasting-with-genetic-algorithms-a-novel-approach-a14c27b94d18)
 
 ## Makridakis Competitions
 
