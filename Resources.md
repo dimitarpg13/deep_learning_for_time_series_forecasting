@@ -8,6 +8,8 @@
 
 [The Analysis of Time Series: Introduction, Chris Chatfield, 5th Edition, 1995](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/books/Chatfield_The_Analysis_of_Time_Series_An_Introduction_5ed.pdf)
 
+[Introduction to Time Series and Forecasting, Second Edition, Peter J. Brockwell et al, 2002](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/books/Introduction_to_Time_Series_and_Forecasting_2ed_Brockwell_2002.pdf)
+
 ## articles
 
 [TimeGPT-1, Azul Garza et al, Nixtla, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/TimeGPT-1_Garza_Nixtla_2024.pdf)
