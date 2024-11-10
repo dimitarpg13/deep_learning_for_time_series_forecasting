@@ -37,3 +37,4 @@ literature/articles/A_decoder-only_foundation_model_for_time-series_forecasting_
 literature/articles/Autoformer-Decomposition_Transformers_with_Auto-Correlation_for_Long-Term_Series_Forecasting_Wu_2021.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/Crossformer-Transformer_Utilizing_Cross-Dimension_Dependency_for_Multivariate_Time_Series_Forecasting_Zhang_ICLR_2023.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/genetic_algortithms/Kureychick_2019_J_Phys__Conf_Ser.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Time_Series_Analysis_Forecasting_and_Control_Box_2016.pdf filter=lfs diff=lfs merge=lfs -text
