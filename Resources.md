@@ -182,6 +182,8 @@ related paper: [Understanding Different Design Choices in Training Large Time Se
 
 [Time Series Forecasting with Genetic Algorithms: A Novel Approach, S. Li, Medium, 2024](https://pub.towardsai.net/time-series-forecasting-with-genetic-algorithms-a-novel-approach-a14c27b94d18)
 
+[How to Forecast Time Series Data Using any Supervised Learning Model, Matthew Turk, 2024](https://towardsdatascience.com/how-to-forecast-time-series-data-using-any-supervised-learning-model-02dd62cd4bda)
+
 ## Makridakis Competitions
 
 [Makridakis Competitions, Wiki](https://en.wikipedia.org/wiki/Makridakis_Competitions)
