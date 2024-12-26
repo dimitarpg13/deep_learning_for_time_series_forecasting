@@ -8,6 +8,8 @@
 
 [The Analysis of Time Series: Introduction, Chris Chatfield, 5th Edition, 1995](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/books/Chatfield_The_Analysis_of_Time_Series_An_Introduction_5ed.pdf)
 
+[Introduction to Time Series and Forecasting, Second Edition, Peter J. Brockwell et al, 2002](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/books/Introduction_to_Time_Series_and_Forecasting_2ed_Brockwell_2002.pdf)
+
 ## articles
 
 [TimeGPT-1, Azul Garza et al, Nixtla, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/TimeGPT-1_Garza_Nixtla_2024.pdf)
@@ -179,6 +181,8 @@ related paper: [Understanding Different Design Choices in Training Large Time Se
 [Dynamic Time Series Model Updating: Enhancing Forecast Accuracy with Incremental Adjustments Without Rebuilding Models, S. Li, 2024](https://pub.towardsai.net/dynamic-time-series-model-updating-8e45e042e21b)
 
 [Time Series Forecasting with Genetic Algorithms: A Novel Approach, S. Li, Medium, 2024](https://pub.towardsai.net/time-series-forecasting-with-genetic-algorithms-a-novel-approach-a14c27b94d18)
+
+[How to Forecast Time Series Data Using any Supervised Learning Model, Matthew Turk, 2024](https://towardsdatascience.com/how-to-forecast-time-series-data-using-any-supervised-learning-model-02dd62cd4bda)
 
 ## Makridakis Competitions
 
