@@ -39,3 +39,4 @@ literature/articles/Crossformer-Transformer_Utilizing_Cross-Dimension_Dependency
 literature/articles/genetic_algortithms/Kureychick_2019_J_Phys__Conf_Ser.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Time_Series_Analysis_Forecasting_and_Control_Box_2016.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Introduction_to_Time_Series_and_Forecasting_2ed_Brockwell_2002.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/First-course-in-time-series-analysis-Falk-2011-March-01.pdf filter=lfs diff=lfs merge=lfs -text
