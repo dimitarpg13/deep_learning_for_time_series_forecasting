@@ -116,15 +116,15 @@ PyPOTS url: https://pypots.com/
 
 [Improving time series forecasting in frequency domain using a multi resolution dual branch mixer with noise insensitive ArcTanLoss, Y. Zhang et al, Nature, 2025](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Improving_time_series_forecasting_in_frequency_domain_using_a_multi_resolution_dual_branch_mixer_with_noise_insensitive_ArcTanLoss_Zhang_Nature_2025.pdf)
 
-### Super-resolution related techniques
-
-[Interpretable Super-Resolution via a Learned Time-Series Representation, Randall Balestriero et al, 2020](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Interpretable_Super-Resolution_via_a_Learned_Time-Series_Representation_Balestriero_2020.pdf)
-
 ### forecasting methods and techniques
 
 [Another Look at the Measrues of Forecast Accuracy, Rob J. Hyndman, Anne B. Koehler, 2005](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Another_Look_at_Measures_of_Forecast_Accuracy_Hyndman_2005.pdf)
 
 [Forecast combinations: an over 50-year review, Xiaoqian Wang, Rob J Hyndman, Feng Li, Yanfei Kang, 2022](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Forecast_combinations-an_over_50-year_review_Wang_Hyndman_2022.pdf)
+
+### Super-resolution related techniques
+
+[Interpretable Super-Resolution via a Learned Time-Series Representation, Randall Balestriero et al, 2020](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Interpretable_Super-Resolution_via_a_Learned_Time-Series_Representation_Balestriero_2020.pdf)
 
 ### neural networks and deep learning models
 
