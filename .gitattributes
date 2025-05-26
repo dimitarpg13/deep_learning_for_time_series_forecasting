@@ -42,3 +42,4 @@ literature/books/Introduction_to_Time_Series_and_Forecasting_2ed_Brockwell_2002.
 literature/books/First-course-in-time-series-analysis-Falk-2011-March-01.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/Prediction_via_Shapley_Value_Regression_Alkhatib_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/Improving_time_series_forecasting_in_frequency_domain_using_a_multi_resolution_dual_branch_mixer_with_noise_insensitive_ArcTanLoss_Zhang_Nature_2025.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/Interpretable_Super-Resolution_via_a_Learned_Time-Series_Representation_Balestriero_2020.pdf filter=lfs diff=lfs merge=lfs -text
