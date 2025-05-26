@@ -114,6 +114,8 @@ PyPOTS url: https://pypots.com/
 
 [Forecasting with Limited Data: Combining ARIMA and Diffusion Models, C. Christodoulous et al, 2010](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Forecasting_with_limited_data_Combining_ARIMA_and_diffusion_models_Christodoulos_2010.pdf)
 
+[Improving time series forecasting in frequency domain using a multi resolution dual branch mixer with noise insensitive ArcTanLoss, Y. Zhang et al, Nature, 2025](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Improving_time_series_forecasting_in_frequency_domain_using_a_multi_resolution_dual_branch_mixer_with_noise_insensitive_ArcTanLoss_Zhang_Nature_2025.pdf)
+
 ### forecasting methods and techniques
 
 [Another Look at the Measrues of Forecast Accuracy, Rob J. Hyndman, Anne B. Koehler, 2005](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Another_Look_at_Measures_of_Forecast_Accuracy_Hyndman_2005.pdf)
