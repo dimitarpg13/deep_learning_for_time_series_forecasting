@@ -12,6 +12,8 @@
 
 ## articles
 
+[TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning, Andreas Auer et al, 2025](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/TiRex-Zero-Shot_Forecasting_Across_Long_and_Short_Horizons_with_Enhanced_In-Context_Learning_Auer_2025.pdf)
+
 [TimeGPT-1, Azul Garza et al, Nixtla, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/TimeGPT-1_Garza_Nixtla_2024.pdf)
 
 [Toto: Time Series Optimized Transformer for Observability, Ben Cohen et al, Technical Report, DataDog, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Toto-Time_Series_Optimized_Transformer_for_Observability_Cohen_DataDog_2024.pdf)
