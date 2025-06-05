@@ -194,6 +194,12 @@ related paper: [Understanding Different Design Choices in Training Large Time Se
 
 [How to Forecast Time Series Data Using any Supervised Learning Model, Matthew Turk, 2024](https://towardsdatascience.com/how-to-forecast-time-series-data-using-any-supervised-learning-model-02dd62cd4bda)
 
+[Time Series Forecasting with Moirai (an LLM transformer), Kyle Jones, 2025](https://medium.com/@kylejones_47003/time-series-forecasting-with-moirai-5d063a40e9ed)
+
+## HuggingFace models
+
+[Salesforce Moirai 1.0 R Large](https://huggingface.co/Salesforce/moirai-1.0-R-large)
+
 ## Makridakis Competitions
 
 [Makridakis Competitions, Wiki](https://en.wikipedia.org/wiki/Makridakis_Competitions)
