@@ -16,7 +16,13 @@
 
 [TimeGPT-1, Azul Garza et al, Nixtla, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/TimeGPT-1_Garza_Nixtla_2024.pdf)
 
+[Toto: A Foundation Time-Series Model Optimized for Observability Data; Datadog open-sourced their pretrained time-series model, Nikos Kafritsas,  2025](https://aihorizonforecast.substack.com/p/toto-a-foundation-time-series-model)
+
+[Toto and BOOM unleashed: Datadog releases a state-of-the-art open-weights time series foundation model and an observability benchmark, Datadog article, 2025](https://www.datadoghq.com/blog/ai/toto-boom-unleashed/)
+
 [Toto: Time Series Optimized Transformer for Observability, Ben Cohen et al, Technical Report, DataDog, 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Toto-Time_Series_Optimized_Transformer_for_Observability_Cohen_DataDog_2024.pdf)
+
+[This Time is Different: An Observability Perspective on Time Series Foundation Models, Ben Cohen et al, Datadog, 2025](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/This_Time_is_Different-An_Observability_Perspective_on_Time_Series_Foundation_Models_Cohen_Datadog_2025.pdf)
 
 [A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model, J. Ye et al, Honk Kong U., 2024](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/A_Survey_of_Time_Serie_Foundation_Models_Generalizing_Time_Series_Representation_with_LLM_Ye_2024.pdf)
 
@@ -117,6 +123,7 @@ PyPOTS url: https://pypots.com/
 [Forecasting with Limited Data: Combining ARIMA and Diffusion Models, C. Christodoulous et al, 2010](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Forecasting_with_limited_data_Combining_ARIMA_and_diffusion_models_Christodoulos_2010.pdf)
 
 [Improving time series forecasting in frequency domain using a multi resolution dual branch mixer with noise insensitive ArcTanLoss, Y. Zhang et al, Nature, 2025](https://github.com/dimitarpg13/deep_learning_for_time_series_forecasting/blob/main/literature/articles/Improving_time_series_forecasting_in_frequency_domain_using_a_multi_resolution_dual_branch_mixer_with_noise_insensitive_ArcTanLoss_Zhang_Nature_2025.pdf)
+
 
 ### forecasting methods and techniques
 
